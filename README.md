@@ -5,7 +5,7 @@ Personal Info.
 List of Challange I solved.
 
 ### Week 1
-| Category | Challenge |
-| --- | --- |
-| Web Exploitation | [Fortune Cookies](/Judul%201/)
-| Miscellaneous | [Sanity Check](/Judul%202/)
+|Category|Challenge|
+|:------:|:-------:|
+| Web Exploitation | [Fortune Cookies](/Judul%201/)|
+| Miscellaneous | [Sanity Check](/Judul%202/)|

@@ -9,7 +9,7 @@ Diberikan sebuah barisan karakter ascii dengan tampilan seperti berikut :
 
 ## Solution
 Soal tersebut kemungkinan besar merupakan soal cryptography
-dan asumsi saya rangkaian char ini merupakan hexadesimal, karena merupakan base16 yang terdiri dari angka 0-9 dan huruf a-f
+dan asumsi saya rangkaian char ini merupakan hexadesimal, atau base16 yang terdiri dari angka 0-9 dan huruf a-f
 
 >Saya mencoba menggunakan script python untuk mengubahnya 
 

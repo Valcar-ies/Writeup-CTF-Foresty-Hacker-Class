@@ -21,6 +21,7 @@ print(binascii.unhexlify(strings))
 ![gambar](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/assets/84186470/fb802beb-bec0-4e61-944f-e8b8d959bcd2)
 
 Menghasilkan Output :
+
 ![gambar](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/assets/84186470/3fc215a2-e1e8-4a7d-b190-98d8d66ad254)
 
 Flag yang didapat :

@@ -1,5 +1,6 @@
 # Fortune Cookies
-> description chall
+> Would you like to have some fortune cookies?
+> http://103.167.136.89:10088/
 
 ## About the Challenge
 Diberikan sebuah website dengan tampilan seperti berikut :
@@ -7,18 +8,20 @@ Diberikan sebuah website dengan tampilan seperti berikut :
 ![Soal](Soal.png)
 
 ## Solution
-Write how you solve the chall
+Cek Inspection dengan mengklik F12, Soal ini kemungkinan besar bermain dengan cookie
 
-```shell
-To put your image on github using
-![name_of_image](images/name_of_image.jpg)
-```
+![inspect](inspect.png)
 
-```shell
-if __name__ == "__main__":
-  print("Put your code or payload in here")
-```
+Lalu buka cookie pada inspection dan ubah nilai flag dari 0 menjadi 1
+
+![cookie](cookie.png)
+
+Coba jalankan ulang website dengan click button "Get Your Fortune"
+
+![flag](flag.png)
+
+Maka dapat dilihat, flag yang didapat adalah :
 
 ```
-ForestyHC{H4ck3rrr_Cla555}
+ForestyHC{here_is_your_fortun3_cookie_4a0a47}
 ```

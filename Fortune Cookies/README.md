@@ -5,20 +5,20 @@
 ## About the Challenge
 Diberikan sebuah website dengan tampilan seperti berikut :
 
-![Soal](Soal.png)
+![gambar](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/assets/84186470/65375cd5-06f2-4cf9-8c25-04c799109d38)
 
 ## Solution
 Cek Inspection dengan mengklik F12, Soal ini kemungkinan besar bermain dengan cookie
 
-![inspect](inspect.png)
+![gambar](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/assets/84186470/ce088ce7-b8f1-40fe-9c8a-bbdbbb277dff)
 
 Lalu buka cookie pada inspection dan ubah nilai flag dari 0 menjadi 1
 
-![cookie](cookie.png)
+![gambar](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/assets/84186470/fdfe2376-d34c-48e9-97c0-a9eeeb9379fa)
 
 Coba jalankan ulang website dengan click button "Get Your Fortune"
 
-![flag](flag.png)
+![gambar](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/assets/84186470/3a5f268f-3e16-47d6-8cc2-d856112717cf)
 
 Maka dapat dilihat, flag yang didapat adalah :
 

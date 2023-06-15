@@ -1,5 +1,6 @@
 # Writeup CTF Foresty Hacker Class
-Personal Info.
+Zefanya Darma Putri
+IF-45-09
 
 ## List Challange
 List of Challange I solved.

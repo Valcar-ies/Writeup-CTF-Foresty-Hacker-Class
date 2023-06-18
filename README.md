@@ -14,7 +14,7 @@ List of Challange I solved.
 ### Week 2
 |Category|Challenge|
 |:------:|:-------:|
-| Cryptography | [Vigenere]|
+| Cryptography | [Vigenere](Cryptography/Vigenere.md)|
 | Cryptography | [RSA]|
 | Cryptography | [Xorrr]|
 | Cryptography | [Emoji]|

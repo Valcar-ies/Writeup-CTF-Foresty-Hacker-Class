@@ -16,5 +16,5 @@ List of Challange I solved.
 |:------:|:-------:|
 | Cryptography | [Vigenere](Cryptography/Vigenere.md)|
 | Cryptography | [RSA](Cryptography/RSA.md)|
-| Cryptography | [Xorrr]|
-| Cryptography | [Emoji]|
+| Cryptography | [Xorrr]()|
+| Cryptography | [Emoji](Cryptography/Xorr.md)|

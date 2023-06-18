@@ -39,7 +39,8 @@ print(decoded_strings)
 ```
 
 >Result
-![gambar](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/assets/84186470/aa9c9025-663c-4237-b435-fd30c317a9f8)
+
+![gambar](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/assets/84186470/9c2289bb-2773-453d-86cd-61c88e3bed15)
 
 Didapatkan Flag dari hasil di atas 
 ```console

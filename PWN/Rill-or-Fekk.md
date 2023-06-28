@@ -59,6 +59,7 @@ sh.interactive()
 
 ![image](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/assets/84186470/8531464a-a644-4642-8491-953682a740fc)
 
+Flag yang didapat :
 
 ```console
 ForestyHC{eyyoo_u_ar3nt_supp0ssd_t0_b3_h3re_subm1t_th1zz_and_g0_aw4yy_a4xc0d}

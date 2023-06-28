@@ -1,6 +1,8 @@
 # TurboChat: Development
-
-## SOLUTION
+>I've create some chat service, but the main fiture is not done yet. However the server is already up and you can try it to test your connection.
+```console
+nc 103.167.136.89 10021
+```
 
 1. Pada challenge ini, kita diberikan sebuah binary file dengan arsitektur 64 bit dan tidak di strip.
 
@@ -80,7 +82,8 @@ sh.interactive() # get shell
 ![image](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/assets/84186470/dc439806-1cf9-4a5a-a29a-dc88a4a7fdd6) 
 
 
-```
+Flag yang didapat :
+```console
 ForestyHC{ez_ret2win_n_stack_alignment_just_to_remember_2adf8a}
 ```
 

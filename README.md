@@ -14,10 +14,10 @@ List of Challange I solved.
 ### Week 2
 |Category|Challenge|
 |:------:|:-------:|
-| Cryptography | [Vigenere](Cryptography/Vigenere.md)|
-| Cryptography | [RSA](Cryptography/RSA.md)|
-| Cryptography | [Xorrr](Cryptography/Xorr.md)|
-| Cryptography | [Emoji](Cryptography/Emoji.md)|
+| Cryptography | [Vigenere](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/blob/main/Cryptography/Vigenere.md)|
+| Cryptography | [RSA](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/blob/main/Cryptography/RSA.md)|
+| Cryptography | [Xorrr](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/blob/main/Cryptography/Xorr.md)|
+| Cryptography | [Emoji](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/blob/main/Cryptography/Emoji.md)|
 | Forensic | [Flagzz](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/blob/main/Forensic/Flagzz.md) |
 | Forensic | [Recover-Me](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/blob/main/Forensic/Recover-Me.md) |
 

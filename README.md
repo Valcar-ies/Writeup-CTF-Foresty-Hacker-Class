@@ -20,11 +20,3 @@ List of Challange I solved.
 | Cryptography | [Emoji](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/blob/main/Cryptography/Emoji.md)|
 | Forensic | [Flagzz](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/blob/main/Forensic/Flagzz.md) |
 | Forensic | [Recover-Me](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/blob/main/Forensic/Recover-Me.md) |
-
-### Week 3
-|Category|Challenge|
-|:------:|:-------:|
-| PWN | [Rill Or Fek](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/blob/main/PWN/Rill-or-Fekk.md) |
-| PWN | [Shellcode](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/blob/main/PWN/Shellcode.md) |
-| PWN | [TurboChat: Development](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/blob/main/PWN/TurboChat-Development.md) |
-| PWN | [TurboLike: Login Portal](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/blob/main/PWN/TurboLike-Login-Portal.md) |

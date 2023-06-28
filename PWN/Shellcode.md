@@ -1,5 +1,9 @@
 # Shellcode 
-## SOLUTION 
+> Could you execute some shell on this shellcode tester app with no restriction?
+```console
+nc 103.167.136.89 10023
+```
+
 1. Pada challenge ini diberikan sebuah binary file dengan arsitektur 64 bit dan tidak di strip.
 
 ![image](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/assets/84186470/6423a7a3-79ba-4d31-90bd-b1e72addda3f)
@@ -59,6 +63,7 @@ sh.interactive()
 
 ![image](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/assets/84186470/7a3b8740-7800-4c89-b02a-198e8264a90d)
 
-
-## FLAG -> ForestyHC{first_time_write_ur_own_shellcode?_92fab2}
-
+Flag yang didapat :
+```console
+ForestyHC{first_time_write_ur_own_shellcode?_92fab2}
+```

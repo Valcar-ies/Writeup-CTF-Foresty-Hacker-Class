@@ -18,3 +18,6 @@ List of Challange I solved.
 | Cryptography | [RSA](Cryptography/RSA.md)|
 | Cryptography | [Xorrr](Cryptography/Xorr.md)|
 | Cryptography | [Emoji](Cryptography/Emoji.md)|
+| Forensic | [Flagzz](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/blob/main/Forensic/Flagzz.md) |
+| Forensic | [Recover-Me](https://github.com/Valcar-ies/Writeup-CTF-Foresty-Hacker-Class/blob/main/Forensic/Recover-Me.md) |
+
